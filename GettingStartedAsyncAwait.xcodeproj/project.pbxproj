@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7B1BBA0928C60F4500C25DD5 /* Webservice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B1BBA0828C60F4500C25DD5 /* Webservice.swift */; };
+		7B1BBA0B28C6115E00C25DD5 /* CurrentDateListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B1BBA0A28C6115E00C25DD5 /* CurrentDateListViewModel.swift */; };
 		8D8D5D7A2698BA3D0075CB16 /* GettingStartedAsyncAwaitApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D8D5D792698BA3D0075CB16 /* GettingStartedAsyncAwaitApp.swift */; };
 		8D8D5D7C2698BA3D0075CB16 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D8D5D7B2698BA3D0075CB16 /* ContentView.swift */; };
 		8D8D5D7E2698BA3E0075CB16 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8D8D5D7D2698BA3E0075CB16 /* Assets.xcassets */; };
@@ -14,6 +16,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7B1BBA0828C60F4500C25DD5 /* Webservice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Webservice.swift; sourceTree = "<group>"; };
+		7B1BBA0A28C6115E00C25DD5 /* CurrentDateListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrentDateListViewModel.swift; sourceTree = "<group>"; };
 		8D8D5D762698BA3D0075CB16 /* GettingStartedAsyncAwait.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GettingStartedAsyncAwait.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8D8D5D792698BA3D0075CB16 /* GettingStartedAsyncAwaitApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GettingStartedAsyncAwaitApp.swift; sourceTree = "<group>"; };
 		8D8D5D7B2698BA3D0075CB16 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,6 +59,8 @@
 				8D8D5D7B2698BA3D0075CB16 /* ContentView.swift */,
 				8D8D5D7D2698BA3E0075CB16 /* Assets.xcassets */,
 				8D8D5D7F2698BA3E0075CB16 /* Preview Content */,
+				7B1BBA0828C60F4500C25DD5 /* Webservice.swift */,
+				7B1BBA0A28C6115E00C25DD5 /* CurrentDateListViewModel.swift */,
 			);
 			path = GettingStartedAsyncAwait;
 			sourceTree = "<group>";
@@ -139,6 +145,8 @@
 			files = (
 				8D8D5D7C2698BA3D0075CB16 /* ContentView.swift in Sources */,
 				8D8D5D7A2698BA3D0075CB16 /* GettingStartedAsyncAwaitApp.swift in Sources */,
+				7B1BBA0B28C6115E00C25DD5 /* CurrentDateListViewModel.swift in Sources */,
+				7B1BBA0928C60F4500C25DD5 /* Webservice.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
